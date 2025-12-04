@@ -1,4 +1,4 @@
-package org.self.learn.behavioral.command;
+package org.self.learn.behavioral.request.command;
 
 public class CancelOrderCommand implements OrderCommand{
     private OrderService orderService;

@@ -1,4 +1,4 @@
-package org.self.learn.behavioral.request;
+package org.self.learn.behavioral.request.chain;
 
 public abstract class Handler {
 

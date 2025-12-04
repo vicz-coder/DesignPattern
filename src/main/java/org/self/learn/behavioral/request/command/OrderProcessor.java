@@ -1,4 +1,4 @@
-package org.self.learn.behavioral.command;
+package org.self.learn.behavioral.request.command;
 
 import java.util.ArrayList;
 import java.util.List;

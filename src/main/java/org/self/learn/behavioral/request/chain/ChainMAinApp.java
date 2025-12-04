@@ -1,4 +1,4 @@
-package org.self.learn.behavioral.request;
+package org.self.learn.behavioral.request.chain;
 
 public class ChainMAinApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.self.learn.behavioral.request;
+package org.self.learn.behavioral.request.chain;
 
 public class Director extends Handler{
     @Override
